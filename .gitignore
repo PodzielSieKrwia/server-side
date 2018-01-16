@@ -1,6 +1,8 @@
 .DS_Store
 /.idea
 /.vscode
+podzielsiekrwia-server-side.code-workspace
+firebase-debug.log
 
 functions/node_modules/
 
